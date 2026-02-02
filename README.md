@@ -14,7 +14,7 @@ conda create -n arfinrenderer python=3.8 -y
 ```
 
 ```bash
-conda activate arfinrenderer
+conda activate Arfinrenderer
 ```
 
 ```bash
